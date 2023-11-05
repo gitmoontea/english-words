@@ -57,7 +57,7 @@ def setData(audios, meanings):
     labelFrame = create_labelList()
     labelFrame.configure(text=f"Word Explaining -- {word_input.get()}")
     last_label_frame = labelFrame
-    print("audiossssss : ", audios)
+    
     if (audios):
         for audio in audios:
             if (("-us" in audio) or ("-uk") in audio):
