@@ -6,3 +6,4 @@
 >>
 >It builds a button when it is pressed that to pronounce the word if the response is exist from api
 
+<img src="English_Words.PNG" width=700>
